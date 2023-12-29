@@ -116,7 +116,9 @@ else:
 ```
 ## Output
 ![Screenshot 2023-12-29 125811](https://github.com/DEVAABISHEK/Search-Algorithm/assets/150319305/4563d085-9557-4bf3-809c-26266dbd2da5)
+
 ![Screenshot 2023-12-29 125849](https://github.com/DEVAABISHEK/Search-Algorithm/assets/150319305/803dcb44-d6a0-4bb0-b23d-ac1c3feb95f2)
+
 ![Screenshot 2023-12-29 125922](https://github.com/DEVAABISHEK/Search-Algorithm/assets/150319305/234e1cf0-18ad-4f98-b9bc-e96a04818bbd)
 
 
